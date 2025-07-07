@@ -1,0 +1,38 @@
+MENI2
+
+Be Prove tha(e ee Verge ays = 24d
+
+Be Evaluate AC — x)¢1 = 24)(1 — dei). where interval ob dutterene ing 2
+
+Find the missing, values in the follow ing lable
+
+aa
+yliola. oa an.
+
+vials
+
+Find approximate value of cos 24" using mterpolitien from the even dst
+
+x ort 7 aut get at | su au) tu | ao
+wos sds” aaeT | xeou! cpnu das 6 7 tag aca
+
+WFQ) = 1, £3) = 27. (C4) = 64, obtain a unique polynonual f (2c) of degree less
+or equal to 2, using Lagrange’s interpolation formula
+
+Approximate f° Lo dx using
+(i). Trapezoidal rule Gi). Simpsons 1/3 rule (itp, Simpsons 3/8 rule
+compare the results with direct mtegravon
+
+The velocity of an anrplane, which starts from rest, is given at fixed intervals of time
+
+shown below
+5,
+
+t@minutes) 2 4, 6 8 [10 12[14] 16/18] 20)
+bE w(km) | 1 1x[2sy29] 327201] $s [270]
+Find the approximate distance covered in 20 minutes.
+Newton's divided difference formula find £(6). Given that
+sO) = LQ) = 5./(7) = 5 f@) = 4.
+
+, Approximate the value ot 7 by evaluating R(1, 1
+
